@@ -1,2 +1,2 @@
-phone="07859143764"
+phone="07777777777"
 path="/usr/local/sbin/testing/"
