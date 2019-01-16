@@ -6,3 +6,4 @@ from config import*
 
 print phone
 print path
+print user

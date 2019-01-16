@@ -1,2 +1,3 @@
-phone="07777777777"
-path="/usr/local/sbin/testing/"
+phone="07777777770"
+path="/usr/local/sbin/testing/git1"
+user="sandman112"
